@@ -13,7 +13,7 @@ public class CouchDBTest {
   
   
  public static void main(String[] args){
-   
+	 
   /*Creating a session with couch db running in 5984 port*/
   Session docDbSession = new Session("localhost",5984);
    
